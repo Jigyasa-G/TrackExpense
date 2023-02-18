@@ -3,6 +3,8 @@ Track all your expenses at one place. Suited to all your personalized needs.
 
 ## UI Sample:
 ![image](https://user-images.githubusercontent.com/75614134/219901864-37e033e7-ec11-43be-b5ca-a84d655cf94d.png)
+![image](https://user-images.githubusercontent.com/75614134/219901992-c43099e9-ce15-435e-8eb3-07355be2350a.png)
+
 ![image](https://user-images.githubusercontent.com/75614134/219901933-291aa083-6956-4428-84e3-ac17767f5287.png)
 
 
